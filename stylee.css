@@ -1,0 +1,253 @@
+body{
+    display: flexbox;
+    flex-wrap: wrap;
+    background-image: url(https://www.shutterstock.com/image-photo/abstract-blur-image-background-shopping-600nw-1906991296.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    visibility: 10%;
+}
+.na{
+text-decoration: none;
+padding: 2px 39px;
+margin: 2px 2px;
+color: rgb(155, 134, 15);
+
+}
+.na:hover{
+color: rgb(123, 16, 145);
+}
+.ha{
+border: 2px solid rgb(255, 255, 255);
+padding: 26px 15px;
+margin: -8px -8px
+
+}
+.searchbar{
+padding: 2px 2px;
+margin-left: 80px;
+border: 1px solid rgb(0, 0, 0);
+border-radius: 5px;
+}
+.sk{
+float: right;
+padding-right: 20px;
+width: 20%;
+font-size: 30px;
+margin: -10px 0px;
+}
+.body{
+height: 500px;
+width: 100%;
+padding-left: 16px;
+margin: 5px -8px;
+background-color:rgb(253, 227, 77);
+overflow: hidden;
+}
+.chaomin{
+position: absolute;
+width: 500px;
+height: 400px;
+border: 1px solid rgb(253, 227, 77);
+border-radius: 20px;
+left: 45%;
+top: 20%;
+
+}
+.s{
+position: absolute;
+width: 30%;
+left: 10%;
+top: 29%;
+justify-content: center;
+
+}
+.sm{
+position: absolute;
+width: 30%;
+left: 9.8%;
+top: 31%;
+
+}
+.button{
+position: absolute;
+left: 8%;
+top: 50%;
+color: rgb(0, 0, 0);
+background-color: rgb(42, 247, 42);
+border: 1px solid rgb(42, 247, 42) ;
+padding: 2px 9px;
+border-radius: 3px;
+}
+.button:hover{
+background-color: rgb(247, 95, 95);
+border: 1px solid rgb(247, 95, 95) ;
+
+}
+
+.la{
+border: 2px solid rgb(194, 194, 194);
+padding: 26px 15px;
+margin: -8px -8px;
+width: 98.65%;
+height: 30px;
+background-color: rgb(194, 194, 194);
+}
+.ya{
+text-decoration: none;
+
+padding: 2px 90px;
+margin: 2px 2px;
+color: rgb(0, 0, 0);
+
+}
+.ya:hover{
+text-decoration: underline;
+color: rgb(16, 145, 70);
+}
+.ew{
+width: 30%;
+}
+.feature{
+margin: -40px 0px;
+padding: 2px 103px;
+
+}
+.images{
+display: inline;
+margin: 30px;
+
+}
+.hello{
+display: inline;
+height: 200px;
+width: 200px;
+margin: 30px;
+}
+.bad{
+display: inline;
+}
+.rate{
+display: inline;
+position: relative;
+right: 17%;
+}
+.bads{
+display: inline;
+padding: 0px;
+margin: 0px;
+margin-left: 10px;
+}
+.container{
+background-image: url(https://media.istockphoto.com/id/1448720788/photo/food-banner-background-with-vegan-products-vegan-food-on-table-top-view-veganuary-concept.webp?b=1&s=170667a&w=0&k=20&c=1V2UOHHtPIFBngJ-WBydZyFe7FjH1oVQmgRApSw-KpU=);
+width: 100%;
+height: 750px;
+background-size: 100%;
+margin-top: 40px;
+background-repeat: no-repeat;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.whitecontainer{
+    border: 1px solid rgb(255, 255, 255);
+    width: 50%;
+    height: 500px;
+    display: flex;
+    
+    flex-direction: column;
+    background-color: white;
+    border-radius: 20px;
+}
+.whit{
+   margin-left: 260px;
+   margin-top: 100px ;
+    text-decoration: underline;  
+}
+.whi{
+    display: flex;
+    margin-left: 100px;
+    margin-top: -20px ;
+    color: rgb(51, 49, 173);
+}
+.hh{
+    display: flex;
+    margin-left: 70px;
+    width: 80%;
+}
+.confirm{
+    display: flex;
+    margin-left: 270px;
+    margin-top: 20px ;
+    width: 20%;
+    height: 30px;
+    border: 1px solid rgb(255, 16, 16);
+    background-color:rgb(255, 16, 16) ;
+    color: white;
+    border-radius: 5px;
+}
+.haha{
+    margin-top: 70px;
+    margin-left: 140px;
+}
+.container1{
+    display: flex;
+    margin-top: 140px;
+    margin-left: 200px;
+    height: 600px;
+}
+.iu{
+    display: inline;
+}
+.image1{
+
+    display: inline;
+    height: 300px;
+    width: 400px;
+    margin: 30px;
+}
+ .yuo{
+    display: inline;
+    position: relative;
+    right: 50%;
+
+    
+ }
+ .container3{
+    display: flex;
+    flex-direction: row;
+    width: 99%;
+    height: 400px;
+    background-color: rgb(219, 219, 219);
+    padding: 10px;
+ }
+ .about{
+    width: 30%;
+ }
+.links{
+    margin-right: 10px;
+    display: flex;
+    flex-direction: column ;
+}
+.quick{
+    margin: 0px 50px;
+}
+.contacts{
+    margin: 0px 100px;
+}
+.email{
+    margin: 0px 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
